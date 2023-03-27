@@ -1,2 +1,6 @@
 Hola
 body
+header
+footer
+hola
+adios
